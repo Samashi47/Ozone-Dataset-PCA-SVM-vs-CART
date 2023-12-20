@@ -1,11 +1,11 @@
-Mini-projet : Machine Learning 1 \n
-MST IASD 2023-2024 (Département Génie Informatique)
-Groupe 7 : Samady Ahmed - Chibani fahd - Daghmoumi Marouan
-Sujet 3 : Couche d’Ozone
-Dataset: https://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection
-Modèles: Support Vector Machines (SVM) avec ou sans utilisation de la PCA VS DT
+**Mini-projet : Machine Learning 1** \
+MST IASD 2023-2024 (Département Génie Informatique) \
+Groupe 7 : Samady Ahmed - Chibani fahd - Daghmoumi Marouan \
+Sujet 3 : Couche d’Ozone \
+Dataset: https://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection \
+Modèles: Support Vector Machines (SVM) avec ou sans utilisation de la PCA VS DT \
 
-Webographie:
+**Webographie:**
 - Zhang, K., Fan, W., & Yuan, X. (2008). Ozone Level Detection. UCI Machine Learning Repository. https://doi.org/https://doi.org/10.24432/C5NG6W
 - Under-sampling — version 0.11.0. (n.d.). https://imbalanced-learn.org/stable/under_sampling.html#condensed-nearest-neighbors
 - Over-sampling — version 0.11.0. (n.d.). https://imbalanced-learn.org/stable/over_sampling.html
