@@ -1,4 +1,4 @@
-Mini-projet : Machine Learning 1
+Mini-projet : Machine Learning 1 \n
 MST IASD 2023-2024 (Département Génie Informatique)
 Groupe 7 : Samady Ahmed - Chibani fahd - Daghmoumi Marouan
 Sujet 3 : Couche d’Ozone
